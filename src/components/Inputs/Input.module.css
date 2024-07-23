@@ -1,0 +1,21 @@
+.input {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.inputs {
+	display: flex;
+	align-items: center;
+}
+
+.dropdown {
+	width: 50px;
+}
+
+.label{
+	width: 8em;
+	position: relative;
+	display: flex;
+	justify-content: center;
+}

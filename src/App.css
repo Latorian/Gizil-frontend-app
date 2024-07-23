@@ -1,0 +1,15 @@
+/* App.css */
+.app-container {
+  margin: auto;
+  width: 80%;
+}
+
+.hidden {
+  display: none;
+}
+
+.threejs-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}

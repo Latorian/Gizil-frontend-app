@@ -1,0 +1,13 @@
+.tablebuttonGroup {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	padding: 8px;
+}
+
+.buttonGroup {
+	display: flex;
+	flex-direction: row-reverse;
+	gap: 8px;
+	padding: 8px;
+}

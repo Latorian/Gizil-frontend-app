@@ -1,0 +1,22 @@
+.overlayText {
+	color: white;
+	position: absolute;
+	left: 5%;
+	bottom: 5%;
+}
+
+.shapename {
+	color: white;
+	position: absolute;
+	left: 50%;
+	top: 5%;
+}
+
+#threejs-canvas {
+	
+}
+
+.xbutton {
+	position: absolute;
+	top: 0%;
+}
